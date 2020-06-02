@@ -2468,6 +2468,9 @@ fieldset:disabled a.btn {
   background-color: #1abc9c;
   border-color: #1abc9c;
 }
+.btn-primary.custom {
+  width: 78px !important;
+}
 .btn-primary:hover {
   color: #fff;
   background-color: #159a80;
@@ -10020,6 +10023,10 @@ h3 {
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
 }
+.btn-l {
+  padding: 0.5rem 0.75rem;
+  font-size: 1.25rem;
+}
 
 .btn-social {
   border-radius: 100%;
@@ -10166,7 +10173,7 @@ h3 {
     height: 20px;
     margin-top: -12px;
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     color: #fff;
 }
 
