@@ -399,7 +399,7 @@ h6, .h6 {
 .lead-2 {
   font-size: 1.50rem;
   font-weight: 300;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(49,53,57,1.0);
   border-radius: 25px;
   padding: 20px;
 }
