@@ -6082,7 +6082,7 @@ a.close.disabled {
 }
 
 .bg-image {
-  background-image:url("../assets/img/map_background.png")  !important;
+  background-image:url("../assets/img/meetup_background.jpg")  !important;
    background-size: cover;
   background-repeat: no-repeat;
 }
